@@ -1,0 +1,20 @@
+{
+	"name": "@martinporto/my-node-lib",
+	"version": "1.0.1",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [
+		"adder",
+		"addition",
+		"math"
+	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/MoaLaiSkirulais/my-node-lib"
+	},
+	"author": "martinporto@gmail.com",
+	"license": "MIT",
+	"description": "My first lib"
+}
