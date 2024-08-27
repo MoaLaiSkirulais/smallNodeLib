@@ -1,0 +1,6 @@
+{
+	"dependencies": {
+		"@martinporto/small-node-lib": "^1.0.6"
+	},
+	"type": "module"
+}
